@@ -140,7 +140,7 @@ dotnet run --urls="http://0.0.0.0:5001"
 - Injeção de dependência
 
 
-## Desenvolvido por Vitor Durães
+## Desenvolvido por Gabriel Vitor
 
 Sistema desenvolvido como demonstração de um CRM completo para empresas gráficas, integrando tecnologias modernas de desenvolvimento web e inteligência artificial.
 
